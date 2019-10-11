@@ -1,7 +1,7 @@
 
 DROP DATABASE IF EXISTS bamazon;
 
-CREATE DATABASE bamazon;
+nodeCREATE DATABASE bamazon;
 
 CREATE DATABASE Bamazon;
 USE Bamazon;
